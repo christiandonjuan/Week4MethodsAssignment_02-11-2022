@@ -1,0 +1,15 @@
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week4MethodsAssignment\bin\Debug\net6.0\Week4MethodsAssignment.exe
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week4MethodsAssignment\bin\Debug\net6.0\Week4MethodsAssignment.deps.json
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week4MethodsAssignment\bin\Debug\net6.0\Week4MethodsAssignment.runtimeconfig.json
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week4MethodsAssignment\bin\Debug\net6.0\Week4MethodsAssignment.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week4MethodsAssignment\bin\Debug\net6.0\ref\Week4MethodsAssignment.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week4MethodsAssignment\bin\Debug\net6.0\Week4MethodsAssignment.pdb
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week4MethodsAssignment\obj\Debug\net6.0\Week4MethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week4MethodsAssignment\obj\Debug\net6.0\Week4MethodsAssignment.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week4MethodsAssignment\obj\Debug\net6.0\Week4MethodsAssignment.AssemblyInfo.cs
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week4MethodsAssignment\obj\Debug\net6.0\Week4MethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week4MethodsAssignment\obj\Debug\net6.0\Week4MethodsAssignment.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week4MethodsAssignment\obj\Debug\net6.0\ref\Week4MethodsAssignment.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week4MethodsAssignment\obj\Debug\net6.0\Week4MethodsAssignment.pdb
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week4MethodsAssignment\obj\Debug\net6.0\Week4MethodsAssignment.genruntimeconfig.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week4MethodsAssignment\obj\Debug\net6.0\Week4MethodsAssignment.csproj.AssemblyReference.cache
